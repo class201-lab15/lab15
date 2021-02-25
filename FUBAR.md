@@ -13,4 +13,8 @@
 # feature 2
 ## the navigator was raghad, ali
 ## the driver was haneen
+<<<<<<< HEAD
 >>>>>>> 0a315c0f024976e04b787f58951a0492680aa985
+=======
+# we finished the conflict lab
+>>>>>>> 70836d45b55a5c6c66a12b4df19d0deaa01b18b3
