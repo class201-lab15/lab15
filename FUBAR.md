@@ -11,3 +11,7 @@
 # hi from ali local machine
 
 # anew conflict was solved
+
+# feature 3
+## the navigator was hisham
+## the driver was ali
