@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 # feature3
 ## the driver ali
 ## the navigator was hisham
 
-=======
 # feature 1
 ## the navigator was bayan
 ## the driver was hisham
