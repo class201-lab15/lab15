@@ -1,7 +1,6 @@
-# feature2
+# feature 1
+## the navigator was bayan
+## the driver was hisham
+# feature 2
+## the navigator was raghad, ali
 ## the driver was haneen
-## the navigator was raghad,ali
-# feature2
-## the driver was haneen
-## the navigator was raghad,ali
-
